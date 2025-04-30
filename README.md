@@ -20,10 +20,11 @@ This project addresses the growing challenge of shelter overcrowding by developi
 - Form-based user interface for shelter staff
 
 ## Repository Contents
-- `Project Statement.pdf` – Full business case and executive summary
-- `Database Project ER Diagrams.png` – ER diagram showing table relationships
-- `Database Project Relational Schema.png` – Logical schema with fields and keys
-- `Shelter Dog Adoption Presentation.pptx` – Slide deck summarizing system objectives and features
+- `Database Management Final Project.accdb` – Complete Microsoft Access database file
+- `Project Statement.pdf` – Business case, executive summary, and impact analysis
+- `Database Project ER Diagrams.png` – Entity-Relationship Diagram
+- `Database Project Relational Schema.png` – Logical schema of tables and keys
+- `Shelter Dog Adoption Presentation.pptx` – Project overview and technical summary
 
 ## System Features
 - **Dog Registration Form:** Tracks individual dog information
